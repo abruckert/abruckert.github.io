@@ -23,7 +23,7 @@ Preprints, work-in-progress
 I. Goudé\*, **A. Bruckert**\*, A. H. Olivier, J. Pettré, R. Cozot, K. Bouatouch, M. Christie, and L. Hoyet. [Multi-map saliency-driven gaze behavior for virtual
 characters](https://hal.archives-ouvertes.fr/hal-03796523/) *Submitted to IEEE Transactions on Visualization and Computer Graphics*, 2023.
 
-A. Bruckert, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *Submitted to International Conference on Accoustics, Speech and Signal Processing (ICASSP)*, 2023.
+**A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *Submitted to International Conference on Accoustics, Speech and Signal Processing (ICASSP)*, 2023.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
