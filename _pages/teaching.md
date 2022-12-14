@@ -15,10 +15,12 @@ Polytech Nantes (2022-2023)
 ESIR (2018-2020)
 ====
 
-* Artificial Intelligence (
+* Artificial Intelligence
+* Databases
 
 ISTIC (2018-2020)
 ====
+* Introduction to programming and Python
 
 {% include base_path %}
 
