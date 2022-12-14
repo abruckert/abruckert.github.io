@@ -15,7 +15,8 @@ Machine learning basics; neural network; MLP; gradient methods; backpropagation;
 Human visual system; physiology of vision; perceptual principles; experimental methodology; visual attention; models of visual attention; image quality assessement.   
 [Slides](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_PC_VA_slides.zip), [Lab 1](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_PC_VA_Lab1.ipynb), [Lab 2](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_PC_VA_Lab2.ipynb), [Lab 3](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_VICO_PC_VA_Lab3.zip), [Project](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_PC_VA_project.pdf)
 
-* Data 2 ([Master Cultures Numériques](https://mcn.univ-nantes.fr/))
+* Data 2 ([Master Cultures Numériques](https://mcn.univ-nantes.fr/))   
+Introduction to machine learning; supervised vs non-supervised learning; regression vs classification problems; clustering algorithms; decision trees; SVM; complex data handling; introduction to neural nets.
 
 ## ESIR (2018-2020)
 
