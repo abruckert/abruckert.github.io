@@ -16,7 +16,9 @@ ESIR (2018-2020)
 ==
 
 * Artificial Intelligence
+Machine learning strategy; introduction to neural nets; introduction to deep learning; word embeddings; RNN; CNN; Markov decision processes; reinforcement learning.
 * Databases
+Relational model; relational calculus; conception (normalisation and modeling); ER model; complex queries.
 
 ISTIC (2018-2020)
 ==
