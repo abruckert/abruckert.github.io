@@ -9,6 +9,8 @@ author_profile: true
 
 
 * Machine Learning for Computer Vision ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico))
+Machine learning basics; neural network; MLP; gradient methods; backpropagation; deep learning; CNN; RNN; applications in computer vision.
+[Slides](https://deep.univ-nantes.io/advnn/cours/1_introduction.html#/title-slide), [Lab 1 material](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_MLCV_Lab1.zip), [Lab 2 material](https://github.com/abruckert/abruckert.github.io/blob/master/files/VICO_MLCV_Lab2.zip)
 * Perceptual Computing ([Visual Computing Master](https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux/visual-computing-masters-degree-vico))
 * Data 2 ([Master Cultures Numériques](https://mcn.univ-nantes.fr/))
 
