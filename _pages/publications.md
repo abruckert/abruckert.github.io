@@ -6,12 +6,13 @@ author_profile: true
 
 ## Peer-reviewed journal publications
 
+I. Goudé\*, **A. Bruckert**\*, A. H. Olivier, J. Pettré, R. Cozot, K. Bouatouch, M. Christie, and L. Hoyet. [Real-time Multi-map Saliency-driven Gaze
+Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal-03796523/) *IEEE Transactions on Visualization and Computer Graphics*, 2023.
+
 **A. Bruckert**, M. Christie, O. Le Meur, [Where to look at the movies: Analyzing visual attention to understand movie editing](https://link.springer.com/article/10.3758/s13428-022-01949-7), *Behavior Research Methods*, 2022.
 
 **A. Bruckert**, H. R. Tavakoli, Z. Liu, M. Christie, O. Le Meur, [Deep saliency models: The quest for the loss function](https://www.sciencedirect.com/science/article/pii/S0925231220313734), *Neurocomputing*, vol.453, pp.693-704, 2021.
 
-I. Goudé\*, **A. Bruckert**\*, A. H. Olivier, J. Pettré, R. Cozot, K. Bouatouch, M. Christie, and L. Hoyet. [Real-time Multi-map Saliency-driven Gaze
-Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal-03796523/) *IEEE Transactions on Visualization and Computer Graphics*, 2023.
 
 ## International conferences
 
