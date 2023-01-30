@@ -12,3 +12,7 @@ I am a postoctoral reasearcher at the [LS2N lab](https://www.ls2n.fr/), [Nantes 
 
 I received the M.Sc. degree in applied mathematics and data science from Paris Saclay University, France, in 2018, and the M.Eng. degree in computer science from École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise (ENSIIE), Évry, France, in 2018. I received the Ph.D. degree from Rennes 1 University, France, in 2022. [My thesis](https://ged.univ-rennes1.fr/nuxeo/site/esupversions/45936f86-1136-478e-8404-ebaf73a90007?inline) explored the relationship between visual attention and cinematographic features from a computer vision point of view.
 
+
+### News
+
+Our paper, [Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters](https://hal.science/hal-03796523/) was accepted for publication in IEEE TVCG !
