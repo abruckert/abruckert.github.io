@@ -10,6 +10,8 @@ author_profile: true
 
 **A. Bruckert**, H. R. Tavakoli, Z. Liu, M. Christie, O. Le Meur, [Deep saliency models: The quest for the loss function](https://www.sciencedirect.com/science/article/pii/S0925231220313734), *Neurocomputing*, vol.453, pp.693-704, 2021.
 
+I. Goudé\*, **A. Bruckert**\*, A. H. Olivier, J. Pettré, R. Cozot, K. Bouatouch, M. Christie, and L. Hoyet. [Real-time Multi-map Saliency-driven Gaze
+Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal-03796523/) *IEEE Transactions on Visualization and Computer Graphics*, 2023.
 
 ## International conferences
 
@@ -18,9 +20,6 @@ author_profile: true
 M. Poncet, A. Basset, S. Farrens, **A. Bruckert**, M. Gray, D. Vibert, A. Schmitt, S. Jamal, V. Le Brun, O. Le Fèvre, C. Surace, M. Huertas-Company, H. Dole, E. Soubrié, R. Peralta, R. Cabanac, [Euclid: AI in the dark space](https://dx.doi.org/10.2760/848593), *Big Data from Space*, pp.9-14, 2019.
 
 ## Preprints, work-in-progress
-
-I. Goudé\*, **A. Bruckert**\*, A. H. Olivier, J. Pettré, R. Cozot, K. Bouatouch, M. Christie, and L. Hoyet. [Multi-map saliency-driven gaze behavior for virtual
-characters](https://hal.archives-ouvertes.fr/hal-03796523/) *Submitted to IEEE Transactions on Visualization and Computer Graphics*, 2023.
 
 **A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *Submitted to International Conference on Accoustics, Speech and Signal Processing (ICASSP)*, 2023.
 
