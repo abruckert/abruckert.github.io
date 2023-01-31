@@ -14,5 +14,5 @@ I received the M.Sc. degree in applied mathematics and data science from Paris S
 
 
 ### News
-* Our workshop on Emotions in Movies (Cinemotions), will be hold at ACM IMX in June ! It will be hold jointly with the Workshop on Intelligent Cinematography and Editing (WICED); more information on [our website](https://project.inria.fr/wicedxcinemotions2023/). See you there !
+* Our workshop on Emotions in Movies (Cinemotions), will be hold at ACM IMX in Nantes in June ! It will be hold jointly with the Workshop on Intelligent Cinematography and Editing (WICED); more information on [our website](https://project.inria.fr/wicedxcinemotions2023/). See you there !
 * Our paper, [Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters](https://hal.science/hal-03796523/) was accepted for publication in IEEE TVCG !
