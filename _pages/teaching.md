@@ -32,10 +32,11 @@ Relational model; relational calculus; conception (normalisation and modeling); 
 
 Student Supervision
 ===
-## Polytech Nantes (2022-2023)
+## Master students
 
-* Supervisor of an M.Eng. student for their Master thesis
-* Supervisor of several M.Eng. students on their research projects
+* Yuan Feng, "Who looks at what ? Distinguishing and predicting personnal gaze behavior", Polytech Nantes (Feb.-July 2023)
+* Jun Zhang, "Data augmentation for deep visual saliency models", Polytech Nantes (Feb.-July 2022)
+* Supervisor of several Master students on their research projects
 
 {% include base_path %}
 
