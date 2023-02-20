@@ -14,5 +14,6 @@ I received the M.Sc. degree in applied mathematics and data science from Paris S
 
 
 ### News
+* One paper accepted at IEEE ICASSP 2023 ! A. Bruckert, M. Abid, M. Perreira da Silva, and P. Le Callet, "Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ?" See you in Rhodes in June !
 * Our workshop on Emotions in Movies (Cinemotions), will be hold at [ACM IMX](https://imx.acm.org/2023/) in Nantes in June ! It will be hold jointly with the Workshop on Intelligent Cinematography and Editing (WICED); more information on [our website](https://project.inria.fr/wicedxcinemotions2023/). See you there !
 * Our paper, [Real-time Multi-map Saliency-driven Gaze Behavior for Non-conversational Characters](https://hal.science/hal-03796523/) was accepted for publication in IEEE TVCG !
