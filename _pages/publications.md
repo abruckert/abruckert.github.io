@@ -15,6 +15,7 @@ Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal
 
 
 ## International conferences
+**A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *IEEE ICASSP*, 2023.
 
 **A. Bruckert**, Y. H. Lam, M. Christie, O. Le Meur, [Deep learning for inter-observer congruency prediction](https://ieeexplore.ieee.org/abstract/document/8803596), *IEEE ICIP*, pp. 3766-3770, 2019.
 
@@ -22,7 +23,9 @@ M. Poncet, A. Basset, S. Farrens, **A. Bruckert**, M. Gray, D. Vibert, A. Schmit
 
 ## Preprints, work-in-progress
 
-**A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *Submitted to International Conference on Accoustics, Speech and Signal Processing (ICASSP)*, 2023.
+**A. Bruckert**, L. Lévêque, M. Perreira da Silva, and P. Le Callet, A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition, *Submitted to ACM IMX*, 2023
+
+J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation, *Submitted to IEEE ICME*, 2023
 
 ## Thesis
 
