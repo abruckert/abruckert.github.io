@@ -31,6 +31,9 @@ J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, VSGAN: Visu
 
 **A. Bruckert**, [A perceptual approach to film editing : exploring cinematography through visual attention and computational saliency](https://ged.univ-rennes1.fr/nuxeo/site/esupversions/45936f86-1136-478e-8404-ebaf73a90007?inline), Université Rennes 1, 2022
 
+
+\* indicates equal contribution
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
