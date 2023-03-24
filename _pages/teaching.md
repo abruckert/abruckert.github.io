@@ -16,7 +16,7 @@ Human visual system; physiology of vision; perceptual principles; experimental m
 
 * Data 2 ([Master Cultures Numériques](https://mcn.univ-nantes.fr/))   
 Introduction to machine learning; supervised vs non-supervised learning; regression vs classification problems; clustering algorithms; decision trees; SVM; complex data handling; introduction to neural nets.   
-[Clustering](https://github.com/abruckert/abruckert.github.io/blob/master/files/CN_data2_clustering.pdf); [Lab 1](https://github.com/abruckert/abruckert.github.io/blob/master/files/TP1_clustering.zip); [Classification](https://github.com/abruckert/abruckert.github.io/blob/master/files/CN_data2_classification.pdf)
+[Clustering](https://github.com/abruckert/abruckert.github.io/blob/master/files/CN_data2_clustering.pdf); [Lab 1](https://github.com/abruckert/abruckert.github.io/blob/master/files/TP1_clustering.zip); [Classification](https://github.com/abruckert/abruckert.github.io/blob/master/files/CN_data2_classification.pdf); [Lab 2](https://github.com/abruckert/abruckert.github.io/blob/master/files/TP2_classification.zip)
 
 ## ESIR (2018-2020)
 
