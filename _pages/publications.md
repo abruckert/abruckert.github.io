@@ -15,7 +15,7 @@ Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal
 
 
 ## International conferences
-**A. Bruckert**, L. Lévêque, M. Perreira da Silva, and P. Le Callet, A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition, *Submitted to ACM IMX*, 2023
+**A. Bruckert**, L. Lévêque, M. Perreira da Silva, and P. Le Callet, A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition, *ACM IMX*, 2023
 
 **A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *IEEE ICASSP*, 2023.
 
