@@ -15,6 +15,8 @@ Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal
 
 
 ## International conferences
+**A. Bruckert**, L. Lévêque, M. Perreira da Silva, and P. Le Callet, A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition, *Submitted to ACM IMX*, 2023
+
 **A. Bruckert**, M. Abid, M. Perreira da Silva, and P. Le Callet. Could the bubbleview metaphor be used to infer visual attention on 3d graphical content ? *IEEE ICASSP*, 2023.
 
 **A. Bruckert**, Y. H. Lam, M. Christie, O. Le Meur, [Deep learning for inter-observer congruency prediction](https://ieeexplore.ieee.org/abstract/document/8803596), *IEEE ICIP*, pp. 3766-3770, 2019.
@@ -22,10 +24,13 @@ Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal
 M. Poncet, A. Basset, S. Farrens, **A. Bruckert**, M. Gray, D. Vibert, A. Schmitt, S. Jamal, V. Le Brun, O. Le Fèvre, C. Surace, M. Huertas-Company, H. Dole, E. Soubrié, R. Peralta, R. Cabanac, [Euclid: AI in the dark space](https://dx.doi.org/10.2760/848593), *Big Data from Space*, pp.9-14, 2019.
 
 ## Preprints, work-in-progress
+**A. Bruckert**, M. Christie, High-level cinematic knowledge to predict inter-observer visual congruency, *Submitted*, 2023
 
-**A. Bruckert**, L. Lévêque, M. Perreira da Silva, and P. Le Callet, A Dataset of Gaze and Mouse Patterns in the Context of Facial Expression Recognition, *Submitted to ACM IMX*, 2023
+E. Sampaio\*, H. Fertat\*, L. Lévêque, **A. Bruckert**, Leveraging Visual Attention Features To Predict the Emotional Impact of Movies, *Submitted*, 2023 
 
-J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation, *Submitted to IEEE ICME*, 2023
+Y. Feng, **A. Bruckert**, Personalized Visual Scanpath Prediction Using IOR-ROI Weighted Attention Network, *Submitted*, 2023
+
+J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation, *Submitted*, 2023
 
 ## Thesis
 
