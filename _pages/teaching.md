@@ -33,7 +33,7 @@ Relational model; relational calculus; conception (normalisation and modeling); 
 Student Supervision
 ===
 ## Master students
-
+* Badr Tahri-Joutei, "Explicabilité de prédiction automatique d'actions humaines sur graphe de scène" (March-Aug. 2023)
 * Yuan Feng, "Who looks at what ? Distinguishing and predicting personnal gaze behavior", Polytech Nantes (Feb.-July 2023)
 * Jun Zhang, "Data augmentation for deep visual saliency models", Polytech Nantes (Feb.-July 2022)
 * Supervisor of several Master students on their research projects
