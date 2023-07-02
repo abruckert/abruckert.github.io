@@ -24,9 +24,9 @@ Behavior for Non-conversational Characters](https://hal.archives-ouvertes.fr/hal
 M. Poncet, A. Basset, S. Farrens, **A. Bruckert**, M. Gray, D. Vibert, A. Schmitt, S. Jamal, V. Le Brun, O. Le Fèvre, C. Surace, M. Huertas-Company, H. Dole, E. Soubrié, R. Peralta, R. Cabanac, [Euclid: AI in the dark space](https://dx.doi.org/10.2760/848593), *Big Data from Space*, pp.9-14, 2019.
 
 ## Workshops, communications
-**A. Bruckert**, M. Christie, High-level cinematic knowledge to predict inter-observer visual congruency, IMX2023 WICEDxCinemotions workshop, 2023
+**A. Bruckert**, M. Christie, [High-level cinematic knowledge to predict inter-observer visual congruency](https://hal.science/hal-04139622), IMX2023 WICEDxCinemotions workshop, 2023
 
-J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation, IMX2023 VAMEXP workshop, 2023
+J. Zhang, C. Xian, **A. Bruckert**, P. Le Callet, G. Li, and H. Cai, [VSGAN: Visual Saliency guided Generative Adversarial Network for data augmentation](https://hal.science/hal-04139629), IMX2023 VAMEXP workshop, 2023
 
 Y. Feng, **A. Bruckert**, Personalized Visual Scanpath Prediction Using IOR-ROI Weighted Attention Network, IMX2023 VAMEXP workshop, 2023
 
